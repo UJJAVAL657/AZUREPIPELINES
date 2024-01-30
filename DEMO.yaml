@@ -1,0 +1,29 @@
+# Sample YAML File
+
+# Information about a person
+person:
+  name: John Doe
+  age: 30
+  occupation: Developer
+
+# List of favorite colors
+favorite_colors:
+  - Red
+  - Blue
+  - Green
+
+# Address information
+address:
+  city: Anytown
+  state: ST
+  zip: '12345'
+
+# Boolean value
+is_student: true
+
+# Nested structure
+projects:
+  - name: Project A
+    description: This is project A
+  - name: Project B
+    description: Project B details
